@@ -49,4 +49,5 @@ An AI/ML enthusiast with a knack for solving tough problems.
 
 ## 📫 Connect With Me
 🤝 **[LinkedIn](https://linkedin.com/in/drew-berry)** | 💻 **[GitHub](https://github.com/drewberry612)** | 📧 **[Email](mailto:drewberry137@outlook.com)**
-![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-1E90FF?style=flat) – AI/ML engineering roles, Open to remote/hybrid/onsite opportunities.
+
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-1E90FF?style=flat) | AI/ML engineering roles, Open to remote/hybrid/onsite opportunities.
