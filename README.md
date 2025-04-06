@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hi there! I’m Drew 🌟
 An AI/ML enthusiast with a knack for solving tough problems.
 
@@ -44,10 +46,29 @@ An AI/ML enthusiast with a knack for solving tough problems.
 
 - 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
   Tackled real-world ML challenges on Kaggle ([profile](https://kaggle.com/drewberry6)), applying advanced techniques to diverse datasets.
+<!--
+---
 
+## Fun Facts
+
+- ⚡ I once [fun fact about coding/AI/games]!
+- 🎮 My favorite game is [game name].
+- ☕ I’ve consumed [number] cups of coffee while coding this year.
+-->
 ---
 
 ## 📫 Connect With Me
 🤝 **[LinkedIn](https://linkedin.com/in/drew-berry)** | 💻 **[GitHub](https://github.com/drewberry612)** | 📧 **[Email](mailto:drewberry137@outlook.com)**
 
+🌍 Based in the UK
+
 Open to Work | AI/ML engineering roles | Open to remote/hybrid/onsite opportunities
+
+---
+
+## GitHub Stats
+
+![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drewberry612&layout=compact&theme=radical)
+
+---
