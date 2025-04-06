@@ -9,7 +9,7 @@ An AI/ML enthusiast with a knack for solving tough problems.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Love coding solutions to complex problems.
 - 🌱 Currently exploring cutting-edge AI research.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 <!--- 🔭 I’m currently working on
 - ⚡ Fun fact:-->
 
