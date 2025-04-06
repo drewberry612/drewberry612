@@ -68,7 +68,7 @@ Open to Work | AI/ML engineering roles | Open to remote/hybrid/onsite opportunit
 
 ## GitHub Stats
 
-![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)
+<!--![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drewberry612&layout=compact&theme=radical)
 
 ---
