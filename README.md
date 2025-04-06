@@ -1,4 +1,4 @@
-![Banner](banner.png)
+<!--![Banner](banner.png)-->
 
 # Hi there! I’m Drew 🌟
 An AI/ML enthusiast with a knack for solving tough problems.
@@ -9,8 +9,8 @@ An AI/ML enthusiast with a knack for solving tough problems.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Love coding solutions to complex problems.
 - 🌱 Currently exploring cutting-edge AI research.
-- 🔭 I’m currently working on 
-- ⚡ Fun fact:
+<!--- 🔭 I’m currently working on
+- ⚡ Fun fact:-->
 - 😄 Pronouns: He/Him
 
 ---
