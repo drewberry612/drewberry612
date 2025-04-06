@@ -26,4 +26,23 @@ An AI/ML enthusiast with a knack for solving tough problems.
 ### Technical Skills
 ![Neural Network Design](https://img.shields.io/badge/-Neural%20Network%20Design-4B0082?style=flat)  ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-008B8B?style=flat)  ![Advanced ML](https://img.shields.io/badge/-Advanced%20ML-228B22?style=flat)  ![Genetic Algorithms](https://img.shields.io/badge/-Genetic%20Algorithms-FF4500?style=flat)  ![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-1E90FF?style=flat)  ![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-6A5ACD?style=flat)  ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-20B2AA?style=flat)  ![RAG](https://img.shields.io/badge/-RAG-FF69B4?style=flat) ![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=flat)  ![Game Design](https://img.shields.io/badge/-Game%20Design-FF6347?style=flat)  ![2D/3D Game Dev](https://img.shields.io/badge/-2D/3D%20Game%20Dev-4682B4?style=flat)
 
+---
+
+## Projects
+
+- **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
+  Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.
+
+- **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
+  Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
+
+- **[Angry Birds Game Clone](https://github.com/drewberry612/angry-birds)**  
+  Created a physics-based clone of Angry Birds with custom mechanics and gameplay.
+
+- **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
+  Implemented autograd functionality for neural networks using only NumPy.
+
+- **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
+  Tackled real-world ML challenges on Kaggle, applying advanced techniques to diverse datasets.
+
 - 📫 How to reach me: ...
