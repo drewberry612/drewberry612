@@ -30,19 +30,14 @@ An AI/ML enthusiast with a knack for solving tough problems.
 
 ## Projects
 
-- **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
-  Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.
+- **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)** - Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.
 
-- **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
-  Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
+- **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)** - Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
 
-- **[Angry Birds Game Clone](https://github.com/drewberry612/angry-birds)**  
-  Created a physics-based clone of Angry Birds with custom mechanics and gameplay.
+- **[Angry Birds Clone](https://github.com/drewberry612/angry-birds)** - Created a physics-based clone of Angry Birds with custom mechanics and gameplay.
 
-- **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
-  Implemented autograd functionality for neural networks using only NumPy.
+- **[Autograd with NumPy](https://github.com/drewberry612/autograd)** - Implemented autograd functionality for neural networks using only NumPy.
 
-- **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
-  Tackled real-world ML challenges on Kaggle, applying advanced techniques to diverse datasets.
+- **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)** - Tackled real-world ML challenges on Kaggle, applying advanced techniques to diverse datasets.
 
 - 📫 How to reach me: ...
