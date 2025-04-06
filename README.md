@@ -30,7 +30,7 @@ An AI/ML enthusiast with a knack for solving tough problems.
 
 ---
 
-## Projects
+## Major Projects
 
 - 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
   Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.
