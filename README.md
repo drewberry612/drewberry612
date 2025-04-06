@@ -23,7 +23,7 @@ An AI/ML enthusiast with a knack for solving tough problems.
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## Technical Skills
+### Technical Skills
 ![Neural Network Design](https://img.shields.io/badge/-Neural%20Network%20Design-4B0082?style=flat)  ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-008B8B?style=flat)  ![Advanced ML](https://img.shields.io/badge/-Advanced%20ML-228B22?style=flat)  ![Genetic Algorithms](https://img.shields.io/badge/-Genetic%20Algorithms-FF4500?style=flat)  ![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-1E90FF?style=flat)  ![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-6A5ACD?style=flat)  ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-20B2AA?style=flat)  ![RAG](https://img.shields.io/badge/-RAG-FF69B4?style=flat) ![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=flat)  ![Game Design](https://img.shields.io/badge/-Game%20Design-FF6347?style=flat)  ![2D/3D Game Dev](https://img.shields.io/badge/-2D/3D%20Game%20Dev-4682B4?style=flat)
 
 - 📫 How to reach me: ...
