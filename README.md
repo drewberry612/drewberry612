@@ -6,19 +6,19 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ---
 
-## About Me ℹ️ ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
+## ℹ️ About Me  ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
 - 🎓 MSc in Artificial Intelligence with top-tier academic credentials.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Thrive on tough problems and creative solutions.
 
-## Currently Working On 🔭
+## 🔭 Currently Working On 
 - 🎧 A personal project using GenAI, Streamlit, and Spotify's Web API to explore the concept of an AI-assisted music recommendation software.
 - 🧠 Participating in Kaggle competitions to sharpen my ML skills and tackle real-world data challenges
 - 🌐 Building my presence in the AI/ML industry through GitHub, Kaggle, and LinkedIn posts
 
 ---
 
-## Skills 🛠️
+## 🛠️ Skills 
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=3776AB)  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
@@ -33,7 +33,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ---
 
-## Major Projects 🚀
+## 🚀 Major Projects 
 
 - 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
   Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.  
@@ -53,8 +53,8 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ---
 
-## Fun Facts 🎉
-- 🔍 I’ve never used an inbuilt debugging tool—I do it all myself and am pretty darn good at it!
+## 🎉 Fun Facts 
+- 🔍 I’ve never used an inbuilt debugging tool—I do it all myself and am pretty damn good at it!
 
 - ⏳ Coding tunnel vision is real! I’ve lost track of time coding for 5-6 hours, and in that time, I've not had a single drop of water.
 
@@ -68,7 +68,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ---
 
-## Connect With Me 📫
+## 📫 Connect With Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/drewberry612) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com)
 
 🌍 Based in the UK
@@ -77,7 +77,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ---
 
-## GitHub Stats 📈
+## 📈 GitHub Stats 
 
 <!--![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drewberry612&layout=compact&theme=radical)
