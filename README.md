@@ -65,7 +65,7 @@ I value clean, readable code, reproducible experiments, and collaborative proble
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/drewberry612)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=mail-ru&logoColor=white)](mailto:drewberry137@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/drewberry612) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com)
 
 🌍 Based in the UK
 
