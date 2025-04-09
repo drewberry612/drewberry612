@@ -37,10 +37,11 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 - 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
   Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.  
-  Key tools: Python, NumPy, OpenAI Gym, StableBaselines3, custom visual debugging tools
+  Key tools: Python, OpenAI Gym, StableBaselines3, custom visual debugging tools
   
 - 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
   Tackled real-world ML challenges on Kaggle ([profile](https://kaggle.com/drewberry6)), applying advanced techniques to diverse datasets.
+  Key Tools: Python, scikit-learn, TensorFlow, Pandas, Seaborn, Jupyter Notebook
 
 - 👊 **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
   Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
