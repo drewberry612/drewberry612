@@ -13,7 +13,7 @@ I value clean, readable code, reproducible experiments, and collaborative proble
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Love coding solutions to complex problems.
 
-### 🔭 Currently Working On:
+## 🔭 Currently Working On:
 - 🎧 A personal project using GenAI, Streamlit, and Spotify's Web API to explore the concept of an AI-assisted music recommendation software.
 - 🧠 Participating in Kaggle competitions to sharpen my ML skills and tackle real-world data challenges
 - 🌐 Building my presence in the AI/ML industry through GitHub, Kaggle, and LinkedIn posts
