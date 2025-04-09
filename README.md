@@ -34,6 +34,9 @@ An AI/ML enthusiast with a knack for solving tough problems.
 
 - 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
   Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.
+  
+- 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
+  Tackled real-world ML challenges on Kaggle ([profile](https://kaggle.com/drewberry6)), applying advanced techniques to diverse datasets.
 
 - 👊 **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
   Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
@@ -44,8 +47,6 @@ An AI/ML enthusiast with a knack for solving tough problems.
 - 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
   Implemented autograd functionality for neural networks using only NumPy.
 
-- 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
-  Tackled real-world ML challenges on Kaggle ([profile](https://kaggle.com/drewberry6)), applying advanced techniques to diverse datasets.
 <!--
 ---
 
