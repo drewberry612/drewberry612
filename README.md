@@ -4,14 +4,14 @@
 An AI/ML enthusiast with a knack for solving tough problems.
 
 ---
+
 ## About Me
+- 😄 Pronouns: he/him
 - 🎓 MSc in Artificial Intelligence with top-tier academic creds.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Love coding solutions to complex problems.
 - 🌱 Currently exploring cutting-edge AI research.
-- 😄 Pronouns: he/him
-<!--- 🔭 I’m currently working on
-- ⚡ Fun fact:-->
+<!--- 🔭 I’m currently working on-->
 
 ---
 
@@ -70,7 +70,7 @@ Open to Work | AI/ML engineering roles | Open to remote/hybrid/onsite opportunit
 
 ## GitHub Stats
 
-<!--![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)-->
+![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drewberry612&layout=compact&theme=radical)
 
 ---
