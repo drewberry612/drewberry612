@@ -1,12 +1,12 @@
 <!--![Banner](banner.png)-->
 
-# Hi there! I’m Drew 👋 [![Actively Seeking AI/ML Roles](https://img.shields.io/badge/Actively%20Seeking-AI%2FML%20Roles-blueviolet?style=flat&logo=target&logoColor=white)](#-connect-with-me)
+# Hi there! I’m Drew 👋 &nbsp; [![Actively Seeking AI/ML Roles](https://img.shields.io/badge/Actively%20Seeking-AI%2FML%20Roles-blueviolet?style=flat&logo=target&logoColor=white)](#-connect-with-me)
 
 An AI/ML engineer with a passion for building intelligent systems—from artificial driving agents to game engines.
 
 ---
 
-## ℹ️ About Me &nbsp; &nbsp; &nbsp; ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
+## ℹ️ About Me &nbsp; &nbsp; ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
 - 🎓 MSc in Artificial Intelligence with top-tier academic credentials.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Thrive on tough problems and creative solutions.
