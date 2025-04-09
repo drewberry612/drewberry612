@@ -13,7 +13,7 @@ I value clean, readable code, reproducible experiments, and collaborative proble
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Love coding solutions to complex problems.
 
-## 🔭 Currently Working On:
+## Currently Working On 🔭
 - 🎧 A personal project using GenAI, Streamlit, and Spotify's Web API to explore the concept of an AI-assisted music recommendation software.
 - 🧠 Participating in Kaggle competitions to sharpen my ML skills and tackle real-world data challenges
 - 🌐 Building my presence in the AI/ML industry through GitHub, Kaggle, and LinkedIn posts
@@ -37,20 +37,20 @@ I value clean, readable code, reproducible experiments, and collaborative proble
 
 ## Major Projects
 
-- 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**
-  Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.
+- 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
+  Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.  
   Key tools: Python, NumPy, OpenAI Gym, StableBaselines3, custom visual debugging tools
   
-- 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**
+- 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
   Tackled real-world ML challenges on Kaggle ([profile](https://kaggle.com/drewberry6)), applying advanced techniques to diverse datasets.
 
-- 👊 **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**
+- 👊 **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
   Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
 
-- 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**
+- 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
   Implemented autograd functionality for neural networks using only NumPy.
   
-- 🐦 **[Angry Birds Clone](https://github.com/drewberry612/angry-birds)**
+- 🐦 **[Angry Birds Clone](https://github.com/drewberry612/angry-birds)**  
   Created a physics-based clone of Angry Birds with custom mechanics and gameplay.
 
 ---
