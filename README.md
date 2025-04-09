@@ -1,6 +1,6 @@
 <!--![Banner](banner.png)-->
 
-# Hi there! I’m Drew 🌟
+# Hi there! I’m Drew 🌟 [![Actively Seeking AI/ML Roles](https://img.shields.io/badge/Actively%20Seeking-AI%2FML%20Roles-blueviolet?style=flat&logo=target&logoColor=white)](#-connect-with-me)
 An AI/ML engineer with a passion for building intelligent systems—from artificial driving agents to game engines. I thrive on tough problems and creative solutions. 
 <!--
 I value clean, readable code, reproducible experiments, and collaborative problem-solving. I aim to build AI that's not just smart—but useful.
