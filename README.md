@@ -6,7 +6,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ---
 
-## ℹ️ About Me       ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
+## ℹ️ About Me &nbsp; ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
 - 🎓 MSc in Artificial Intelligence with top-tier academic credentials.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Thrive on tough problems and creative solutions.
