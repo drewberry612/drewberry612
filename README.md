@@ -8,9 +8,7 @@ I value clean, readable code, reproducible experiments, and collaborative proble
 
 ---
 
-## About Me
-![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
-- 😄 Pronouns: he/him
+## About Me  ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
 - 🎓 MSc in Artificial Intelligence with top-tier academic creds.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
 - 💻 Love coding solutions to complex problems.
@@ -76,9 +74,9 @@ Open to Work | AI/ML engineering roles | Open to remote/hybrid/onsite opportunit
 
 ## GitHub Stats
 
-![Visitors](https://komarev.com/ghpvc/?username=drewberry612&color=blue)
-
 <!--![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drewberry612&layout=compact&theme=radical)
+
+![Visitors](https://komarev.com/ghpvc/?username=drewberry612&color=blue)
 
 ---
