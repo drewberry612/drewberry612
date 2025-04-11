@@ -13,7 +13,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ## 🔭 Currently Working On 
 - 🎧 A personal project using GenAI, Streamlit, and Spotify's Web API to explore the concept of an AI-assisted music recommendation software.
-- 🧠 Participating in Kaggle competitions to sharpen my ML skills and tackle real-world data challenges
+- 📝 Participating in Kaggle competitions to sharpen my ML skills and tackle real-world data challenges
 - 🌐 Building my presence in the AI/ML industry through GitHub, Kaggle, and LinkedIn posts
 
 ---
