@@ -43,7 +43,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
   Tackled real-world ML challenges on Kaggle ([profile](https://kaggle.com/drewberry6)), applying advanced techniques to diverse datasets.  
   Key Tools: Python, scikit-learn, TensorFlow, Pandas, Seaborn, Jupyter Notebook
 
-- 👊 **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
+- 🕹️ **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
   Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
 
 - 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
