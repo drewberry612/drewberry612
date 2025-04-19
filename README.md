@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" style="width: 100%; max-height: 200px;">
+![Banner](banner.png)
 
 # Hi there! I’m Drew 👋 &nbsp; [![Actively Seeking AI/ML Roles](https://img.shields.io/badge/Actively%20Seeking-AI%2FML%20Roles-blueviolet?style=flat&logo=target&logoColor=white)](#-connect-with-me)
 
