@@ -9,12 +9,18 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 ## ℹ️ About Me &nbsp; &nbsp; ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
 - 🎓 MSc in Artificial Intelligence with top-tier academic credentials.
 - 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
-- 💻 Thrive on tough problems and creative solutions.
 
 ## 🔭 Currently Working On 
 - 🎧 A personal project using GenAI, Streamlit, and Last.fm's Web API to explore the concept of an AI-assisted music recommendation software.
 - 📝 Participating in Kaggle competitions to sharpen my ML skills and tackle real-world data challenges
 - 🌐 Building my presence in the AI/ML industry through GitHub, Kaggle, and LinkedIn posts
+
+## 📫 Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com) [![Website](https://img.shields.io/badge/Website-F7931E?style=flat)](https://drewberry612.github.io/)
+
+🌍 Based in Essex, UK
+
+💼 Flexible for remote, hybrid, or onsite opportunities
 
 ---
 
@@ -30,7 +36,6 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ### ⚙️ Technical Skills
 ![Neural Network Design](https://img.shields.io/badge/-Neural%20Network%20Design-4B0082?style=flat)  ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-008B8B?style=flat)  ![Advanced ML](https://img.shields.io/badge/-Advanced%20ML-228B22?style=flat)  ![Genetic Algorithms](https://img.shields.io/badge/-Genetic%20Algorithms-FF4500?style=flat)  ![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-1E90FF?style=flat)  ![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-6A5ACD?style=flat)  ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-20B2AA?style=flat)  ![RAG](https://img.shields.io/badge/-RAG-FF69B4?style=flat) ![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=flat)  ![Game Design](https://img.shields.io/badge/-Game%20Design-FF6347?style=flat)  ![2D/3D Game Dev](https://img.shields.io/badge/-2D/3D%20Game%20Dev-4682B4?style=flat)  ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-9370DB?style=flat)  ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-3CB371?style=flat)  ![Model Evaluation](https://img.shields.io/badge/-Model%20Evaluation-A0522D?style=flat)  ![Hyperparameter Tuning](https://img.shields.io/badge/-Hyperparameter%20Tuning-CD5C5C?style=flat)  ![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-DA70D6?style=flat)
-
 
 ---
 
@@ -67,15 +72,6 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 - ✨ I’m fascinated by GenAI models with memory systems that can remember things intelligently without needing explicit prompts.
 
 - 💡 One memorable moment early in my career: I spent a whole day trying to fix a bug, then took a 2-minute break—and in that moment, the solution came to me like an epiphany. Sometimes the best ideas hit when you step away for a second!
-
----
-
-## 📫 Connect With Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com) [![Website](https://img.shields.io/badge/Website-F7931E?style=flat)](https://drewberry612.github.io/)
-
-🌍 Based in Essex, UK
-
-💼 Flexible for remote, hybrid, or onsite opportunities
 
 ---
 
