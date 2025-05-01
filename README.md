@@ -7,18 +7,13 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 ---
 
 ## ℹ️ About Me &nbsp; &nbsp; ![Pronouns: he/him](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
-- 🎓 MSc in Artificial Intelligence with top-tier academic credentials.
-- 🤖 Aspiring AI/ML engineer specializing in reinforcement learning.
+🌍 Based in Essex, UK
+💼 Flexible for remote, hybrid, or onsite opportunities
+
+📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com) [![Website](https://img.shields.io/badge/Website-F7931E?style=flat)](https://drewberry612.github.io/)
 
 ## 🔭 Currently Working On 
 - 🎧 A personal project using GenAI, Streamlit, and Last.fm's Web API to explore the concept of an AI-assisted music recommendation software.
-
-## 📫 Connect With Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com) [![Website](https://img.shields.io/badge/Website-F7931E?style=flat)](https://drewberry612.github.io/)
-
-🌍 Based in Essex, UK
-
-💼 Flexible for remote, hybrid, or onsite opportunities
 
 ---
 
