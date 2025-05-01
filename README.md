@@ -18,7 +18,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 ---
 
 ## 🛠️ Skills 
-### 💬 Languages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔧 Tools
+### 💬 Languages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔧 Tools
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=3776AB)  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat&logo=oracle&logoColor=white)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
 ### 📚 Libraries/Frameworks
