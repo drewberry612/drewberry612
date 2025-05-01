@@ -40,7 +40,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
   Key tools: Python, OpenAI Gym, StableBaselines3, custom visual debugging tools
   
 - 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
-  Tackled real-world ML challenges on Kaggle ([profile](https://kaggle.com/drewberry6)), applying advanced techniques to diverse datasets.  
+  Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques to diverse datasets.  
   Key Tools: Python, scikit-learn, TensorFlow, Pandas, Seaborn, Jupyter Notebook
 
 - 🕹️ **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
