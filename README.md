@@ -36,10 +36,8 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 - 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
   Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.  
-  
 - 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
   Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques to diverse datasets.
-
 - 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
   Implemented autograd functionality for neural networks using only NumPy.
 
@@ -47,9 +45,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ## 🎉 Fun Facts 
 - 🔍 I’ve never used an inbuilt debugging tool—I do it all myself and am pretty damn good at it!
-
 - 🧗‍♂️ I boulder 2-3 times a week, constantly solving complex physical and mental problems while climbing.
-
 - ✨ I’m fascinated by GenAI models with memory systems that can remember things intelligently without needing explicit prompts.
 
 <!--
