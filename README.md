@@ -45,14 +45,8 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 - 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
   Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques to diverse datasets.
 
-- 🕹️ **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
-  Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
-
 - 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
   Implemented autograd functionality for neural networks using only NumPy.
-  
-- 🐦 **[Angry Birds Clone](https://github.com/drewberry612/angry-birds)**  
-  Created a physics-based clone of Angry Birds with custom mechanics and gameplay.
 
 ---
 
