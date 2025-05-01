@@ -41,11 +41,9 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 - 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
   Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.  
-  Key tools: Python, OpenAI Gym, StableBaselines3, custom visual debugging tools
   
 - 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
-  Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques to diverse datasets.  
-  Key Tools: Python, scikit-learn, TensorFlow, Pandas, Seaborn, Jupyter Notebook
+  Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques to diverse datasets.
 
 - 🕹️ **[Street Fighter Engine](https://github.com/drewberry612/street-fighter)**  
   Developed a Java-based game engine from scratch, later used by another MSc student for RL research.
@@ -61,23 +59,19 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 ## 🎉 Fun Facts 
 - 🔍 I’ve never used an inbuilt debugging tool—I do it all myself and am pretty damn good at it!
 
-- ⏳ Coding tunnel vision is real! I’ve lost track of time coding for 5-6 hours, and in that time, I've not had a single drop of water.
-
-- 🎶 I listen to music while coding but get so focused that I end up completely ignoring the tunes. My mind’s too wrapped up in the problem at hand!
-
 - 🧗‍♂️ I boulder 2-3 times a week, constantly solving complex physical and mental problems while climbing.
 
 - ✨ I’m fascinated by GenAI models with memory systems that can remember things intelligently without needing explicit prompts.
 
-- 💡 One memorable moment early in my career: I spent a whole day trying to fix a bug, then took a 2-minute break—and in that moment, the solution came to me like an epiphany. Sometimes the best ideas hit when you step away for a second!
-
+<!--
 ---
 
 ## 📈 GitHub Stats 
 
-<!--![Drew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewberry612&show_icons=true&theme=radical)-->
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drewberry612&layout=compact&theme=radical)
 
 ![Visitors](https://komarev.com/ghpvc/?username=drewberry612&color=blue)
 
 ---
+-->
