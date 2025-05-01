@@ -31,12 +31,9 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ## 🚀 Major Projects 
 
-- 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**  
-  Built AI driving models for the TORCS racing sim using genetic algorithms and PPO reinforcement learning.  
-- 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**  
-  Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques to diverse datasets.
-- 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**  
-  Implemented autograd functionality for neural networks using only NumPy.
+- 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**:  Built AI driving models for TORCS racing sim using PPO reinforcement learning.  
+- 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**:  Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques.
+- 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**:  Implemented autograd functionality for neural networks using only NumPy.
 
 ---
 
