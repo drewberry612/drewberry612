@@ -10,7 +10,8 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 🌍 Based in Essex, UK &nbsp; &nbsp; &nbsp;
 💼 Flexible for remote, hybrid, or onsite opportunities
 
-📫 &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com) &nbsp; [![Website](https://img.shields.io/badge/Website-F7931E?style=flat)](https://drewberry612.github.io/)
+📫 &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com) &nbsp; [![Website](https://img.shields.io/badge/Website-F7931E?style=flat)](https://drewberry612.github.io/) &nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/drewberry6)
+
 
 ## 🔭 Currently Working On 
 - 🎧 A personal project using GenAI, Streamlit, and Last.fm's API to explore the concept of an AI-assisted music recommendation app.
@@ -26,31 +27,3 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 ### ⚙️ Technical Skills
 ![Neural Network Design](https://img.shields.io/badge/-Neural%20Network%20Design-4B0082?style=flat)  ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-008B8B?style=flat)  ![Advanced ML](https://img.shields.io/badge/-Advanced%20ML-228B22?style=flat)  ![Genetic Algorithms](https://img.shields.io/badge/-Genetic%20Algorithms-FF4500?style=flat)  ![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-1E90FF?style=flat)  ![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-6A5ACD?style=flat)  ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-20B2AA?style=flat)  ![RAG](https://img.shields.io/badge/-RAG-FF69B4?style=flat) ![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=flat)  ![Game Design](https://img.shields.io/badge/-Game%20Design-FF6347?style=flat)  ![2D/3D Game Dev](https://img.shields.io/badge/-2D/3D%20Game%20Dev-4682B4?style=flat)  ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-9370DB?style=flat)  ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-3CB371?style=flat)  ![Hyperparameter Tuning](https://img.shields.io/badge/-Hyperparameter%20Tuning-CD5C5C?style=flat)  ![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-DA70D6?style=flat)
-
----
-
-## 🚀 Major Projects 
-
-- 🏎️ **[MSc Thesis: Reinforcement Learning in TORCS](https://github.com/drewberry612/torcs-research)**:  Built AI driving models for TORCS racing sim using PPO reinforcement learning.  
-- 📊 **[Kaggle Competitions](https://github.com/drewberry612/kaggle-comps)**:  Tackled real-world ML challenges on [Kaggle](https://kaggle.com/drewberry6), applying advanced techniques.
-- 🧠 **[Autograd with NumPy](https://github.com/drewberry612/autograd)**:  Implemented autograd functionality for neural networks using only NumPy.
-<!--
----
-
-## 🎉 Fun Facts 
-- 🔍 I’ve never used an inbuilt debugging tool—I do it all myself and am pretty damn good at it!
-- 🧗‍♂️ I boulder 2-3 times a week, constantly solving complex physical and mental problems while climbing.
-- ✨ I’m fascinated by GenAI models with memory systems that can remember things intelligently without needing explicit prompts.
-
-<!--
----
-
-## 📈 GitHub Stats 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drewberry612&layout=compact&theme=radical)
-
-![Visitors](https://komarev.com/ghpvc/?username=drewberry612&color=blue)
-
----
--->
