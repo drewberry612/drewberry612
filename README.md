@@ -14,7 +14,7 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 
 ## 🔭 Currently Working On 
-- 🎧 A personal project using GenAI, Streamlit, and Last.fm's API to explore the concept of an AI-assisted music recommendation app.
+- ⚙️ A local **MLOps pipeline simulation** showcasing end-to-end model training, deployment, and monitoring.
 
 ---
 
