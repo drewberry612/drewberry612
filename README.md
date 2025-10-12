@@ -12,10 +12,6 @@ An AI/ML engineer with a passion for building intelligent systems—from artific
 
 📫 &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/drew-berry) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drewberry137@outlook.com) &nbsp; [![Website](https://img.shields.io/badge/Website-F7931E?style=flat)](https://drewberry612.github.io/) &nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/drewberry6)
 
-
-## 🔭 Currently Working On 
-- ⚙️ A local **MLOps pipeline simulation** showcasing end-to-end model training, deployment, and monitoring.
-
 ---
 
 ## 🛠️ Skills 
